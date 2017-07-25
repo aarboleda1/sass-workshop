@@ -9,10 +9,12 @@
     }
     .main {
         min-height: 100vh;
+        margin-left: 220px;
     }
     .sidebar {
         width: 200px;
         float: left;
+        height: 100%;
     }
     &.right-nav {
         .sidebar {

@@ -12,11 +12,13 @@
 
 .container .main {
   min-height: 100vh;
+  margin-left: 220px;
 }
 
 .container .sidebar {
   width: 200px;
   float: left;
+  height: 100%;
 }
 
 .container.right-nav .sidebar {
